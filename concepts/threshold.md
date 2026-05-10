@@ -1,8 +1,8 @@
 ---
 concept: threshold
-authors: ["[[van-gennep]]"]
+authors: ["[[van-gennep]]", "[[eliade]]"]
 sphere_relevance: ["[[eliadean-sacred]]", "[[indo-european-substrate]]"]
-related_concepts: ["[[territorial-passage]]", "[[liminal]]", "[[rites-of-passage]]"]
+related_concepts: ["[[territorial-passage]]", "[[liminal]]", "[[rites-of-passage]]", "[[hierophany]]", "[[axis-mundi]]", "[[sacred-space]]"]
 operative: true
 ---
 
@@ -65,6 +65,58 @@ doors — are used for un-rite-able passages: thieves, corpses,
 menstruating women, sacred animals brought in for sacrifice. The
 ritual threshold is uncontaminable; pollutants take the unmarked
 opening.
+
+### From [[eliade-sacred-and-profane]]
+
+Eliade reads the threshold from the cosmological side. Where vG
+treats the threshold as a residual neutral zone with rite-clusters
+on either side, Eliade treats it as the *break in plane* where the
+sacred has already irrupted: "The threshold is the limit, the
+boundary, the frontier that distinguishes and opposes two worlds
+and at the same time the paradoxical place where those worlds
+communicate"
+[[eliade-sacred-and-profane#^p025]].
+
+The threshold's importance, for Eliade, is not that it marks a
+territorial passage but that it is the *site of a hierophany*:
+"Within the sacred precincts the profane world is transcended"
+[[eliade-sacred-and-profane#^p025]]. The door is a hierophany made
+into architecture. This is why "numerous rites accompany passing
+the domestic threshold," and why "the threshold has its
+guardians—gods and spirits"
+[[eliade-sacred-and-profane#^p026]] — the rites concentrate at the
+threshold because the threshold *is* a cosmological event the
+rites must respond to, not a neutral zone the rites must invest
+with meaning.
+
+The cosmological extension at
+[[eliade-sacred-and-profane#^p027]]–[[eliade-sacred-and-profane#^p029]]:
+the threshold belongs to a vertical schema. The temple has "a door
+to the world above"; "the gate of heaven" is the language Eliade
+uses for the threshold's deeper structure. The pilgrim passing
+through the church door is not crossing a buffer-zone between two
+adjacent territories (vG's read); the pilgrim is moving through a
+break in plane that connects the cosmic regions
+[[eliade-sacred-and-profane#^p045]].
+
+The two reads do not collapse. vG's threshold is horizontal — the
+neutral-zone-shrunk-to-a-line between two adjacent territories.
+Eliade's threshold is vertical — the break-in-plane between cosmic
+regions. The same architectural feature serves both, which is why
+the threshold concept holds across both registers; but the
+operative work differs. vG's threshold reads any boundary-marker as
+a passage-site; Eliade's threshold reads only those boundary-markers
+where a hierophany has occurred (or is imitated) as cosmologically
+real. A back door — even one a stranger could be ritually received
+through — is not, for Eliade, a threshold in the load-bearing
+sense.
+
+For the workshop: when canon claims a "threshold" between the
+customer's old life and the brand's territory, both reads are
+available. The vG read asks: is the structural sequence
+(separation/transition/incorporation) actually present? The Eliade
+read asks: is there a hierophany underneath, or is the threshold
+language a cosmological claim the brand has not earned?
 
 ## Norwegian substrate
 

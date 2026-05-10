@@ -1,8 +1,8 @@
 ---
 concept: rites-of-passage
-authors: ["[[van-gennep]]"]
+authors: ["[[van-gennep]]", "[[eliade]]"]
 sphere_relevance: ["[[eliadean-sacred]]", "[[indo-european-substrate]]"]
-related_concepts: ["[[preliminal]]", "[[liminal]]", "[[postliminal]]", "[[territorial-passage]]", "[[pivoting-of-sacred]]", "[[nested-liminal]]"]
+related_concepts: ["[[preliminal]]", "[[liminal]]", "[[postliminal]]", "[[territorial-passage]]", "[[pivoting-of-sacred]]", "[[nested-liminal]]", "[[death-rebirth]]", "[[cosmogony]]"]
 operative: true
 ---
 
@@ -66,6 +66,62 @@ The cyclical case appears at [[van-gennep-rites-of-passage#^p381]]:
 among the Lushae, rites of passage form a closed loop from life to
 death and death back to life. van Gennep notes Buddhism's ethical
 extension and Nietzsche's psychological extension of the same shape.
+
+### From [[eliade-sacred-and-profane]]
+
+Eliade reads vG explicitly. Chapter IV section 7 of *The Sacred
+and the Profane* is titled "Rites of Passage"
+[[eliade-sacred-and-profane#^p250]]–[[eliade-sacred-and-profane#^p251]]
+and opens by acknowledging the schema's discovery: "It was long ago
+observed that 'rites of passage' play a considerable part in the
+life of religious man." The Eliade contribution then *reframes*
+vG's structural pattern as one expression of a deeper claim about
+homo religiosus.
+
+The reframing at [[eliade-sacred-and-profane#^p252]]: initiation
+"in essence consists in a complete change in the novice's
+ontological status." vG's tripartite sequence (separation /
+transition / incorporation) describes the ceremonial form;
+Eliade's claim is what the form *does* — it produces a
+transformation in the novice's mode of being. "He must die to
+this first life and be reborn to a higher life, which is at once
+religious and cultural."
+
+The full reframing at
+[[eliade-sacred-and-profane#^p251]]–[[eliade-sacred-and-profane#^p252]]:
+"every marriage implies a tension and a danger and hence
+precipitates a crisis; this is why it is performed by a rite of
+passage… every human existence is formed by a series of ordeals,
+by repeated experience of 'death' and 'resurrection.'" The
+operative phrase: initiation as "a paradoxical, supernatural
+experience of death and resurrection or of second birth"
+[[eliade-sacred-and-profane#^p253]]. This locates rites of passage
+as the structural form a deeper reality (death-rebirth as
+ontological mutation) takes — the form is vG's contribution; the
+ontological reading is Eliade's.
+
+Eliade's extension into the modern desacralized form at
+[[eliade-sacred-and-profane#^p251]]: "what is found in the profane
+world is a radical secularization of death, marriage, and birth;
+but… there remain vague memories of abolished religious practices
+and even a nostalgia for them." vG describes the rite-form;
+Eliade asks what becomes of the rite-form when its cosmological
+content has been disclaimed. The answer is the substantive
+material in [[camouflaged-sacred]]: the rite-form persists, the
+ontological content does not, and the modern subject undergoes
+a degraded version of the same passage-shape — the "ordeals" of
+career, the "crises" of relationship, the milestone celebrations
+of new house and new child.
+
+For the corpus: vG's tripartite schema and Eliade's
+death-rebirth-as-ontological-mutation are the same phenomenon
+read from two complementary directions. vG holds the structural
+discipline (any rite of passage is read as preliminal-liminal-
+postliminal); Eliade holds the cosmological discipline (any rite
+of passage worth the name is enacting an ontological change the
+participant is undergoing, not performing). The workshop runs both:
+the canonical customer-arc must be a real sequence (vG) AND must
+do real work on the customer's mode of being (Eliade).
 
 ## Norwegian substrate
 

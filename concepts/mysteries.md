@@ -1,8 +1,8 @@
 ---
 concept: mysteries
-authors: ["[[van-gennep]]"]
+authors: ["[[van-gennep]]", "[[eliade]]"]
 sphere_relevance: ["[[eliadean-sacred]]", "[[indo-european-substrate]]"]
-related_concepts: ["[[rites-of-passage]]", "[[liminal]]", "[[sacra]]", "[[death-rebirth]]", "[[social-puberty]]"]
+related_concepts: ["[[rites-of-passage]]", "[[liminal]]", "[[sacra]]", "[[death-rebirth]]", "[[social-puberty]]", "[[hierophany]]"]
 operative: true
 ---
 
@@ -71,6 +71,46 @@ The Mass at [[van-gennep-rites-of-passage#^p196]] is a periodically
 renewed initiation — the same sequence, repeated to maintain the
 condition of communion that the original mysteries produced once.
 Periodic rather than single mysteries.
+
+### From [[eliade-sacred-and-profane]]
+
+Eliade reads the same Eleusinian-Attis-baptism complex but from
+the aquatic-symbolism side. The mysteries are positioned inside
+his "Paradigmatic History of Baptism" sequence
+[[eliade-sacred-and-profane#^p183]]–[[eliade-sacred-and-profane#^p192]],
+where the operative claim is that "the Christian valorization of
+the waters" enriches but does not contradict "the universally
+disseminated aquatic symbolism." The mystery cult is one
+expression of an immutable structure — death-by-immersion,
+emergence-as-new-being — that aquatic hierophany makes universally
+available.
+
+Where vG reads mysteries through the order-of-rites lens (the
+phenomenon is the sequence; isolated rites have lost it), Eliade
+reads them through the symbol-as-ontological-disclosure lens (the
+phenomenon is the water itself, which "disintegrates, abolishes
+forms, 'wash away sins'"
+[[eliade-sacred-and-profane#^p182]]). The two reads converge on
+the same rituals — Eleusinian halade mystai, Christ's descent
+into the Jordan, the bull-blood pit of Attis — but ground them
+differently. For vG the rite has its meaning by position; for
+Eliade by participation in the universal symbolism the rite makes
+local.
+
+Eliade's "structure of an archaic symbolism" claim at
+[[eliade-sacred-and-profane#^p192]] — "History cannot basically
+modify the structure of an archaic symbolism. History constantly
+adds new meanings, but they do not destroy the structure of the
+symbol" — does work vG's frame cannot do: it accounts for *why*
+the same shape recurs across the mysteries. vG describes the
+recurrence; Eliade explains it as a feature of the substrate the
+symbolism rests on.
+
+The mysteries node carries both reads. They are not in tension —
+vG and Eliade describe the same Eleusinian sequence — but they
+serve different operative work. vG's reading sustains the
+order-not-rite discipline; Eliade's reading sustains the
+hierophany-of-water discipline.
 
 ## Norwegian substrate
 

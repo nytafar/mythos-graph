@@ -2,8 +2,8 @@
 concept: gard-utgard
 substrate: norwegian
 substrate_layers: ["[[norse-cosmological]]"]
-cross_tradition_analogs: ["[[territorial-passage|Territorial passage]]", "[[threshold|Threshold]]", "[[pivoting-of-sacred|Pivoting of the sacred]]"]
-related_concepts: ["[[threshold|Threshold]]", "[[territorial-passage|Territorial passage]]", "[[pivoting-of-sacred|Pivoting of the sacred]]", "[[allemannsretten]]"]
+cross_tradition_analogs: ["[[territorial-passage|Territorial passage]]", "[[threshold|Threshold]]", "[[pivoting-of-sacred|Pivoting of the sacred]]", "[[sacred-profane]]", "[[axis-mundi]]", "[[imago-mundi]]", "[[sacred-space]]"]
+related_concepts: ["[[threshold|Threshold]]", "[[territorial-passage|Territorial passage]]", "[[pivoting-of-sacred|Pivoting of the sacred]]", "[[allemannsretten]]", "[[sacred-profane]]", "[[imago-mundi]]"]
 operative: true
 status: stub
 stub_type: substrate

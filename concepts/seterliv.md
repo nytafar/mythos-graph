@@ -2,8 +2,8 @@
 concept: seterliv
 substrate: norwegian
 substrate_layers: ["[[norse-pastoral]]"]
-cross_tradition_analogs: ["[[liminal|Liminal]]", "[[territorial-passage|Territorial passage]]", "[[nested-liminal|Nested liminal]]"]
-related_concepts: ["[[liminal|Liminal]]", "[[territorial-passage|Territorial passage]]", "[[nested-liminal|Nested liminal]]", "[[rites-of-passage|Rites of passage]]"]
+cross_tradition_analogs: ["[[liminal|Liminal]]", "[[territorial-passage|Territorial passage]]", "[[nested-liminal|Nested liminal]]", "[[sacred-time]]", "[[sacred-space]]", "[[hierophany]]", "[[nostalgia-for-paradise]]"]
+related_concepts: ["[[liminal|Liminal]]", "[[territorial-passage|Territorial passage]]", "[[nested-liminal|Nested liminal]]", "[[rites-of-passage|Rites of passage]]", "[[sacred-time]]", "[[sacred-space]]", "[[hierophany]]"]
 operative: true
 status: stub
 stub_type: substrate

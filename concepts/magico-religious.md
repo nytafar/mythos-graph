@@ -1,8 +1,8 @@
 ---
 concept: magico-religious
-authors: ["[[van-gennep]]"]
-sphere_relevance: ["[[meaning-emergence]]"]
-related_concepts: ["[[rites-of-passage]]", "[[pivoting-of-sacred]]"]
+authors: ["[[van-gennep]]", "[[eliade]]"]
+sphere_relevance: ["[[meaning-emergence]]", "[[eliadean-sacred]]"]
+related_concepts: ["[[rites-of-passage]]", "[[pivoting-of-sacred]]", "[[hierophany]]", "[[sacred-profane]]"]
 operative: true
 ---
 
@@ -55,6 +55,32 @@ The classification is operative for the corpus mainly as a vocabulary
 lock against rites-as-isolated-curiosities reading. To call a rite
 "sympathetic" without locating it in a ceremonial sequence is to read
 it through Frazer's lens, which van Gennep explicitly rejects.
+
+### From [[eliade-sacred-and-profane]]
+
+Eliade does not retain vG's `magico-religious` compound. He
+redefines the field around [[hierophany]] — the manifestation of
+the sacred — and treats the rite-versus-belief distinction as a
+secondary problem: "ontophany and hierophany meet"
+[[eliade-sacred-and-profane#^p007]],
+[[eliade-sacred-and-profane#^p020]]. Where vG's compound resolves
+the magic/religion split by refusing it, Eliade dissolves the same
+split by relocating the operative term: the sacred is what *shows
+itself*, and rite/belief are two faces of the response to the
+showing.
+
+This is a register-shift, not a disagreement. vG works inside a
+sociological-anthropological vocabulary in which "magic" and
+"religion" were live categories he had to dispose of; Eliade works
+inside a phenomenology-of-religion vocabulary in which the
+operative term is the sacred itself, and the magic/religion
+distinction has fallen away as a precondition for the work.
+
+For the corpus: vG's `magico-religious` reads concrete rite-acts;
+Eliade's `hierophany` reads the sacred's mode of disclosure. Both
+hold; they sit at different levels of the same phenomenon. A
+substrate-source read that needs the rite-act register cites vG;
+one that needs the disclosure register cites Eliade.
 
 ## Norwegian substrate
 

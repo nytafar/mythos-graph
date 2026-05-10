@@ -1,8 +1,8 @@
 ---
 concept: death-rebirth
-authors: ["[[van-gennep]]"]
+authors: ["[[van-gennep]]", "[[eliade]]"]
 sphere_relevance: ["[[eliadean-sacred]]", "[[indo-european-substrate]]"]
-related_concepts: ["[[liminal]]", "[[mysteries]]", "[[rites-of-passage]]"]
+related_concepts: ["[[liminal]]", "[[mysteries]]", "[[rites-of-passage]]", "[[cosmogony]]", "[[paradigmatic-model]]", "[[camouflaged-sacred]]"]
 operative: true
 ---
 
@@ -70,6 +70,75 @@ every dimension that includes a transformation moment (the boon's
 identity layer; the customer-arc's ordeal; the rites dimension) gets
 read. A transformation that does not stage death cannot stage
 rebirth; the new identity has nothing to be reborn from.
+
+### From [[eliade-sacred-and-profane]]
+
+Eliade extends vG's separation/transition/incorporation into a
+fully cosmological frame. Where vG locates death-rebirth as the
+dramatic shape the liminal phase takes in mysteries-style
+initiations, Eliade reads it as the *invariant* of all initiation:
+"access to spiritual life always entails death to the profane
+condition, followed by a new birth"
+[[eliade-sacred-and-profane#^p267]]. This is presented in the
+chapter section literally titled "Phenomenology of Initiation"
+[[eliade-sacred-and-profane#^p254]]–[[eliade-sacred-and-profane#^p256]].
+
+Three Eliade-specific extensions vG's frame does not carry:
+
+1. **Death-rebirth as cosmogony at personal scale.** Initiatory
+   death "reiterates the paradigmatic return to chaos, in order to
+   make possible a repetition of the cosmogony"
+   [[eliade-sacred-and-profane#^p262]]. The novice is not only
+   dying-to-childhood (vG); the novice is undergoing the cosmogonic
+   pattern in microcosm — return to the precosmic waters, the
+   unformed, then re-emergence as a new creation. The initiation hut
+   is "the maternal womb" and "the embryonic mode of existence,
+   both on the cosmic plane and the plane of human life"
+   [[eliade-sacred-and-profane#^p254]]. This reads death-rebirth as
+   a structural beat of the larger [[cosmogony]] pattern, of which
+   personal initiation is one instance.
+
+2. **Death-rebirth as ontological mutation.** "Initiation is
+   reducible to a paradoxical, supernatural experience of death and
+   resurrection or of second birth"
+   [[eliade-sacred-and-profane#^p252]]. The novice "must die to
+   this first life and be reborn to a higher life, which is at once
+   religious and cultural." For Eliade the rite is not symbolic-
+   structural (vG); it produces an actual change in the novice's
+   ontological status. "One does not become a complete man until
+   one has passed beyond, and in some sense abolished, 'natural'
+   humanity" [[eliade-sacred-and-profane#^p253]].
+
+3. **Death-rebirth as paradigm visible in the modern desacralized
+   form.** "The patterns of initiation still survive, although
+   markedly desacralized, in the modern world"
+   [[eliade-sacred-and-profane#^p253]],
+   [[eliade-sacred-and-profane#^p275]]. War as ordeal,
+   psychoanalysis as descent-and-emergence, the "struggle for life"
+   read as initiatory pattern — these are camouflaged death-rebirth.
+   This is the operative bridge to [[camouflaged-sacred]] and to
+   the marketing-side anti-pattern: brands that perform
+   transformation language ("become who you were meant to be," "30
+   days to a new you") are reaching for death-rebirth language
+   without doing the death-rebirth work.
+
+The Indian sacrifice (dīkṣā) at
+[[eliade-sacred-and-profane#^p263]]–[[eliade-sacred-and-profane#^p265]]
+is presented as the highly evolved case: the sacrificer is
+"ritually transformed into an embryo" through a regressus ad
+uterum, then born again. Eliade's claim is structural-universal:
+the Buddhist "son of the Buddha," Saint Paul's "spiritual sons,"
+Socrates' midwifery, the archaic novice in the bush all share the
+same shape, with successive religious traditions enriching the
+content while the structure persists
+[[eliade-sacred-and-profane#^p266]]–[[eliade-sacred-and-profane#^p267]].
+
+For the corpus: vG gives the structural sequence; Eliade gives the
+ontological weight and the cosmological grounding. A transformation
+moment in canon-shape that passes the vG test (sequence is real)
+can still fail the Eliade test (the ontological mutation is
+gestured but not undergone). Both are operative; the workshop runs
+both.
 
 ## Norwegian substrate
 

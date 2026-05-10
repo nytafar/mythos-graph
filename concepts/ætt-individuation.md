@@ -2,8 +2,8 @@
 concept: ætt-individuation
 substrate: norwegian
 substrate_layers: ["[[norse-social-structure]]"]
-cross_tradition_analogs: ["[[the-stranger|The stranger]]"]
-related_concepts: ["[[the-stranger|The stranger]]"]
+cross_tradition_analogs: ["[[the-stranger|The stranger]]", "[[paradigmatic-model]]"]
+related_concepts: ["[[the-stranger|The stranger]]", "[[paradigmatic-model]]"]
 operative: true
 status: stub
 stub_type: substrate
@@ -26,6 +26,17 @@ universal-claiming frame partially overdetermines — notably the
 fremmed/gjest distinction in [[the-stranger|The stranger]] (the stranger is
 structurally outside the ætt-network, not magico-religiously
 charged).
+
+Cross-tradition note on [[paradigmatic-model]]: ætt-individuation
+is the substrate's primary paradigm-source. The substrate's
+paradigmatic act is *ancestor-imitation through ætt* — the
+forebear-best-self carried in the lineage — not Eliade's
+*imitatio dei* (gods, culture heroes, mythical ancestors at
+ontological remove). The substrate runs paradigmatic-model
+*horizontally through time* rather than *vertically across
+ontological gap*. This is operative for brand-mythos:
+customer-paradigm in Norwegian-substrate brand work is
+"your forebear-best-self," not "your divine-template-self."
 
 ## Contributions
 

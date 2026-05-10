@@ -1,8 +1,8 @@
 ---
 concept: pivoting-of-sacred
-authors: ["[[van-gennep]]"]
+authors: ["[[van-gennep]]", "[[eliade]]"]
 sphere_relevance: ["[[eliadean-sacred]]", "[[meaning-emergence]]"]
-related_concepts: ["[[rites-of-passage]]", "[[liminal]]", "[[the-stranger]]", "[[magico-religious]]"]
+related_concepts: ["[[rites-of-passage]]", "[[liminal]]", "[[the-stranger]]", "[[magico-religious]]", "[[hierophany]]", "[[sacred-profane]]"]
 operative: true
 ---
 
@@ -55,6 +55,54 @@ it as a structural relation. The corpus reads this against
 [[eliade]]'s later essentialist recovery — Eliade's hierophany asserts
 that some places, times, and objects *are* sacred, not merely sacred-
 in-relation. Pressure-test territory.
+
+### From [[eliade-sacred-and-profane]]
+
+Eliade stands on the opposite side of the same axis vG named. Where
+vG holds sacredness as a structural relation that pivots with
+position, Eliade reads sacredness as an ontological quality
+disclosed by [[hierophany]]: "any object becomes something else, yet
+it continues to remain itself"
+[[eliade-sacred-and-profane#^p007]]. The sacred stone is not
+*indexically* sacred to a participant in a rite; it *is* sacred,
+because the sacred manifested itself there, and the manifestation
+ontologically founds the place
+[[eliade-sacred-and-profane#^p020]].
+
+The two positions name the same phenomenon in incompatible
+registers. vG: "sacredness as an attribute is not absolute"
+[[van-gennep-rites-of-passage#^p030]]. Eliade: the hierophany is
+"the manifestation of something of a wholly different order, a
+reality that does not belong to our world"
+[[eliade-sacred-and-profane#^p007]]. vG's pivot is real for Eliade
+only as the pivot in *human awareness* of an ontological reality
+that itself does not pivot; Eliade allows that the sacred withdraws
+from places (deus-otiosus pattern) and that the modern condition
+desacralizes the world, but the sacred when present is *what is
+real*, not *what is so-called by the participants*.
+
+The difference fires on every concept the corpus inherits from both:
+threshold (relational marker vs. break-in-plane;
+[[eliade-sacred-and-profane#^p018]]–[[eliade-sacred-and-profane#^p030]]),
+sacred space (territorial-relational vs. ontophanic;
+[[eliade-sacred-and-profane#^p020]]), sacred time
+(performance-relational vs. recoverable primordial;
+[[eliade-sacred-and-profane#^p085]]). Eliade also flags the modern
+crypto-religious case at
+[[eliade-sacred-and-profane#^p022]]–[[eliade-sacred-and-profane#^p024]]:
+the secular man retains "privileged places" — birthplace, scenes
+of first love — that retain "exceptional, a unique quality." vG
+would read these as pivoted sacred; Eliade reads them as residue of
+genuine hierophanies that the participant can no longer name as such.
+
+For the workshop: when canon-shape claims "sacred to the customer"
+or "sacred for the brand-tribe," the pressure-test asks which
+position the claim is making. Pure-vG language reduces sacredness to
+indexical perception (the brand is sacred-to-its-tribe-only);
+pure-Eliade language risks ontological overreach (the brand *is*
+sacred, full stop, in a desacralized public square). The corpus
+keeps both available; the tension between them is operative, not
+resolvable. See wave 4 for the explicit tension node.
 
 ## Norwegian substrate
 
