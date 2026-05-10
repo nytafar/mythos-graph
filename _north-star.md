@@ -94,9 +94,10 @@ The discipline:
   collapse. A Norwegian node never gets renamed into a universal-claim's
   vocabulary.
 - Universal-claiming sources (Eliade, Campbell, Pearson) read against
-  substrate produce three categories: confirms, breaks, augments.
-  Substrate is allowed to *augment* the universal source — to surface
-  properties the universal frame cannot reach.
+  substrate produce three valences: confirms, breaks, augments. All
+  three are actively probed on every read; augmentation surfaces
+  properties the universal frame cannot reach and is no less
+  load-bearing than the other two.
 
 The substrate-vs-universal axis is a primary fault line in the corpus
 and a primary pressure-test axis in workshop. Tensions on this axis

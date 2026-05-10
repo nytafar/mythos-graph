@@ -4,6 +4,7 @@ domain: lineage
 diagnosed_by: ["[[van-gennep]]"]
 operative_for_pressure_test: true
 related_anti_patterns: []
+related_tensions: ["[[van-gennep-vs-frazer-crawley-order-vs-isolated-rites]]"]
 ---
 
 # Rites in isolation
@@ -26,6 +27,12 @@ phenomenon they were trying to describe has already disappeared from
 their data.
 
 ## Source's diagnosis
+
+The methodological-genealogy of this failure mode (vG's both-builds-on-
+and-opposes relation to Frazer/Crawley) is recorded at the tension node
+[[van-gennep-vs-frazer-crawley-order-vs-isolated-rites]]. This anti-
+pattern carries the operative-diagnostic load; the tension carries the
+lineage-genealogy load.
 
 ### From [[van-gennep-rites-of-passage]]
 

@@ -1,7 +1,7 @@
 ---
 concept: magico-religious
 authors: ["[[van-gennep]]"]
-sphere_relevance: []
+sphere_relevance: ["[[meaning-emergence]]"]
 related_concepts: ["[[rites-of-passage]]", "[[pivoting-of-sacred]]"]
 operative: true
 ---
@@ -9,6 +9,13 @@ operative: true
 # Magico-religious
 
 ## Operational definition
+
+What the analyst now sees differently: the analyst can no longer
+separate ceremony-form from belief-content; both stream simultaneously
+through any rite-act. Pulling them apart — examining "the ritual"
+without "the meaning" or vice versa — produces two abstractions that
+each miss the phenomenon. The compound is a working discipline, not a
+hyphenation: it forbids the analytic move that separates the strands.
 
 van Gennep's chosen vocabulary for the field his book treats. *Religion*
 names the theory (dynamism: the impersonal mana-style force; animism:
@@ -67,4 +74,7 @@ it through Frazer's lens, which van Gennep explicitly rejects.
   classificatory at corpus scale. Both hold; they do different work.
 
 ### Augmentations
-- (none developed)
+- (none in current corpus; substrate-source-read on Norse cosmology
+  will populate, since the substrate's contractual reciprocity may
+  augment the magico-religious vocabulary by surfacing rite-acts that
+  bind without invoking the dynamism/animism axis at all)

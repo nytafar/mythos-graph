@@ -2,7 +2,7 @@
 author: mannhardt
 year_active: 1831-1880
 substrate: germanic-folklore-comparative
-register_alignment: substrate-source
+register_alignment: methodological
 builds_on: []
 refines: []
 opposes: []

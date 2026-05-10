@@ -26,6 +26,15 @@ has both relational (the wanderer pivots) and locational (the woods
 are utgard regardless of who walks them) properties. See break note
 in [[pivoting-of-sacred|Pivoting of the sacred]] substrate section.
 
+Note on polyvalence: gard-utgard registers as substrate-confirmation
+in [[territorial-passage|Territorial passage]] and as substrate-break
+in [[pivoting-of-sacred|Pivoting of the sacred]]. This is the point,
+not an inconsistency — the substrate carries different valence
+relative to different vG concepts because the universal frame's
+predictions land cleanly on one face of the substrate (territorial
+fixity confirms territorial-passage) and miss on another (the
+locational-not-just-relational sacred breaks the pivoting metaphor).
+
 ## Contributions
 
 (Substrate-source reads to populate — Norse cosmology sources will

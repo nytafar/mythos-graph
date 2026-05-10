@@ -54,19 +54,14 @@ the [[rites-in-isolation|Rites in isolation]] anti-pattern.
 
 ## Pressure-test signature
 
-When canon writes a single beat (a threshold moment, an ordeal, a
-boon, a villain manifestation): check whether the beat survives
-isolation from its sequence. If you can pull this canon claim out
-of its surrounding context and the claim still reads as operative,
-that is the warning sign — operative beats *require* the sequence
-to do their work. A claim that "stands alone cleanly" is often a
-claim that has been compressed into a description and has lost the
-order-as-meaning property.
-
-The check: read the beat with the preceding and following beats.
-Does the meaning shift with the surroundings? It should. If it
-doesn't, the beat has been written as an isolated rite in
-Frazer/Crawley's mode.
+The operative pressure-test for the order-as-meaning failure mode
+lives at [[rites-in-isolation|Rites in isolation]] anti-pattern —
+signature, what-to-look-for, diagnosis-voice are written for direct
+satellite consumption there. This tension carries the methodological-
+genealogy load (vG's both-builds-on-and-opposes relation to Frazer/
+Crawley); the anti-pattern carries the operative-diagnostic load.
+Workshop satellites fire on the anti-pattern; the tension is read
+when the lineage-genealogy itself becomes the question.
 
 ## Resolution direction
 

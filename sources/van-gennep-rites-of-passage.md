@@ -42,7 +42,12 @@ contributes_anti_patterns:
   - "[[rites-in-isolation]]"
   - "[[conflating-passage-with-protection]]"
   - "[[initiation-as-puberty-rite]]"
-contributes_spheres: []
+contributes_spheres:
+  - "[[eliadean-sacred]]"
+  - "[[Norwegian-folkloric]]"
+  - "[[meaning-emergence]]"
+  - "[[indo-european-substrate]]"
+  - "[[pageau-symbolic]]"
 contributes_tensions:
   - "[[van-gennep-vs-eliade-sacred-as-relation-vs-quality]]"
   - "[[van-gennep-vs-marketing-side-passage-as-territorial-vs-metaphor]]"

@@ -15,6 +15,4 @@ compressed_by: []
 as a `compressed_by` target (Stage 5 *crossing the threshold* in *The
 Writer's Journey* compresses vG's separation→liminality move into a
 screenwriting beat). Body and lineage relations populate when first
-source-read on Vogler's own work runs; at that point Vogler's own note
-will carry `compresses: [[van-gennep]] [[campbell]]` implicitly via graph
-inversion.]
+source-read on Vogler's own work runs.]

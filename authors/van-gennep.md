@@ -4,7 +4,7 @@ year_active: 1873-1957
 substrate: european-comparative-anthropology
 register_alignment: foundational-primary
 builds_on: ["[[tylor]]", "[[mannhardt]]", "[[frazer]]", "[[smith]]", "[[mauss]]", "[[marett]]"]
-refines: []
+refines: ["[[mannhardt]]", "[[frazer]]"]
 opposes: ["[[crawley]]", "[[schurtz]]", "[[webster]]"]
 compressed_by: ["[[vogler]]", "[[miller]]"]
 ---
