@@ -1,5 +1,6 @@
 ---
 sphere: eliadean-sacred
+dimension: lens
 register: foundational
 parent_modes: ["[[phenomenological]]", "[[history-of-religions]]"]
 aligned_authors: ["[[eliade]]"]

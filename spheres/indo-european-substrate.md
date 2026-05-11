@@ -1,5 +1,6 @@
 ---
 sphere: indo-european-substrate
+dimension: ground
 register: comparative
 parent_modes: ["[[comparative-religion]]", "[[philological]]"]
 aligned_authors: []
